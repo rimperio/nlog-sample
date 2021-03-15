@@ -1,0 +1,157 @@
+2021-03-14 18:15:27.2872|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-03-14 18:15:27.3094|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-03-14 18:15:27.3094|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-03-14 18:15:27.3094|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-03-14 18:15:27.3094|INFO|Microsoft.Hosting.Lifetime|Content root path: /root/workspace/nlog-sample/src/webapi
+2021-03-14 18:15:49.3250|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:49 PM
+2021-03-14 18:15:50.9994|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:50 PM
+2021-03-14 18:15:51.6211|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:51 PM
+2021-03-14 18:15:51.6211|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:51 PM
+2021-03-14 18:15:52.0171|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:52.2443|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:52.4671|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:52.4671|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:52.7084|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:52.9476|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:52 PM
+2021-03-14 18:15:53.2085|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:53.2085|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:53.4481|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:53.6788|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:53.8981|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:53.8981|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:53 PM
+2021-03-14 18:15:54.0897|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:54.2822|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:54.4978|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:54.4978|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:54.7529|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:54.9473|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:54 PM
+2021-03-14 18:15:55.1246|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:55 PM
+2021-03-14 18:15:55.1246|ERROR|nlog_sample.Controllers.LogTestController|Exception logged at: 3/14/2021 6:15:55 PM
+2021-03-14 18:15:55.3476|INFO|nlog_sample.Controllers.LogTestController|weather api called at: 3/14/2021 6:15:55 PM
+2021-03-14 18:16:52.7173|INFO|Microsoft.Hosting.Lifetime|Application is shutting down...
+2021-03-14 18:18:48.6940|Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync|Now listening on: https://localhost:5001
+
+2021-03-14 18:18:48.7188|Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync|Now listening on: http://localhost:5000
+
+2021-03-14 18:18:48.7188|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Application started. Press Ctrl+C to shut down.
+
+2021-03-14 18:18:48.7188|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Hosting environment: Development
+
+2021-03-14 18:18:48.7188|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Content root path: /root/workspace/nlog-sample/src/webapi
+
+2021-03-14 18:18:54.5648|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:54 PM
+
+2021-03-14 18:18:54.7388|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:54 PM
+
+2021-03-14 18:18:54.9917|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:54 PM
+
+2021-03-14 18:18:54.9925|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:18:54 PM
+Attempted to divide by zero.
+2021-03-14 18:18:55.1820|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:55 PM
+
+2021-03-14 18:18:55.3949|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:55 PM
+
+2021-03-14 18:18:55.5680|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:55 PM
+
+2021-03-14 18:18:55.5680|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:18:55 PM
+Attempted to divide by zero.
+2021-03-14 18:18:55.7597|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:55 PM
+
+2021-03-14 18:18:55.9518|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:55 PM
+
+2021-03-14 18:18:56.1475|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:56 PM
+
+2021-03-14 18:18:56.1475|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:18:56 PM
+Attempted to divide by zero.
+2021-03-14 18:18:56.4628|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:56 PM
+
+2021-03-14 18:18:56.6561|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:56 PM
+
+2021-03-14 18:18:56.8669|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:56 PM
+
+2021-03-14 18:18:56.8669|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:18:56 PM
+Attempted to divide by zero.
+2021-03-14 18:18:57.1999|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:18:57 PM
+
+2021-03-14 18:19:30.8868|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStopping|Application is shutting down...
+
+2021-03-14 18:20:49.6785|Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync|Now listening on: https://localhost:5001
+
+
+2021-03-14 18:20:49.7063|Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync|Now listening on: http://localhost:5000
+
+
+2021-03-14 18:20:49.7063|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Application started. Press Ctrl+C to shut down.
+
+
+2021-03-14 18:20:49.7063|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Hosting environment: Development
+
+
+2021-03-14 18:20:49.7063|Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted|Content root path: /root/workspace/nlog-sample/src/webapi
+
+
+2021-03-14 18:20:51.5645|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:51 PM
+
+
+2021-03-14 18:20:52.1491|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:52 PM
+
+
+2021-03-14 18:20:52.3931|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:52 PM
+
+
+2021-03-14 18:20:52.3931|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:20:52 PM
+System.DivideByZeroException: Attempted to divide by zero.
+   at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39    at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39
+
+2021-03-14 18:20:52.6152|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:52 PM
+
+
+2021-03-14 18:20:52.8256|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:52 PM
+
+
+2021-03-14 18:20:53.0505|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:53 PM
+
+
+2021-03-14 18:20:53.0505|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:20:53 PM
+System.DivideByZeroException: Attempted to divide by zero.
+   at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39    at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39
+
+2021-03-14 18:20:53.2404|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:53 PM
+
+
+2021-03-14 18:20:53.4506|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:53 PM
+
+
+2021-03-14 18:20:53.6920|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:53 PM
+
+
+2021-03-14 18:20:53.6926|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:20:53 PM
+System.DivideByZeroException: Attempted to divide by zero.
+   at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39    at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39
+
+2021-03-14 18:20:53.9119|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:53 PM
+
+
+2021-03-14 18:20:54.1455|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:54 PM
+
+
+2021-03-14 18:20:54.3540|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:54 PM
+
+
+2021-03-14 18:20:54.3540|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:20:54 PM
+System.DivideByZeroException: Attempted to divide by zero.
+   at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39    at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39
+
+2021-03-14 18:20:54.5616|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:54 PM
+
+
+2021-03-14 18:20:54.7543|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:54 PM
+
+
+2021-03-14 18:20:54.9471|nlog_sample.Controllers.LogTestController.Get|weather api called at: 3/14/2021 6:20:54 PM
+
+
+2021-03-14 18:20:54.9471|nlog_sample.Controllers.LogTestController.Get|Exception logged at: 3/14/2021 6:20:54 PM
+System.DivideByZeroException: Attempted to divide by zero.
+   at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39    at nlog_sample.Controllers.LogTestController.Get() in /root/workspace/nlog-sample/src/webapi/Controllers/LogTestController.cs:line 39
+
